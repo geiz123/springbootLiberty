@@ -1,4 +1,4 @@
-# ***This branch configure SpringBoot to deploy on an JEE server without need to add springboot feature to application servers.***
+# ***This branch configure SpringBoot to deploy on a JEE server without need to add springboot feature to application servers.***
 # springbootLiberty
 SpringBoot on IBM Liberty with DerbyDB  
 
