@@ -1,5 +1,6 @@
+# ***This branch configure SpringBoot to deploy on an JEE server without need to add springboot feature to application servers.***
 # springbootLiberty
-SpringBoot on IBM Liberty with DerbyDB
+SpringBoot on IBM Liberty with DerbyDB  
 
 ## IDE
 Get eclipse and install Liberty profile.  Then create a server from the liberty runtime below.  
