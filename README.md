@@ -1,4 +1,9 @@
 # ***This branch configure SpringBoot to deploy on a JEE server without need to add springboot feature to application servers.***
+
+# How to deploy
+- Copy the JNDI info from `Liberty/server.xml` into your Liberty runtime `server.xml`
+- Build the war and drop it into the `dropins` folder in Liberty
+
 # springbootLiberty
 SpringBoot on IBM Liberty with DerbyDB  
 
