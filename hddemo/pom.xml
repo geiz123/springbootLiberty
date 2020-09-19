@@ -58,6 +58,7 @@
 
 	<build>
 		<plugins>
+			<!-- https://docs.spring.io/spring-boot/docs/1.1.6.RELEASE/maven-plugin/index.html -->
 			<!-- <plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
